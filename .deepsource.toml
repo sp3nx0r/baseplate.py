@@ -1,13 +1,13 @@
 version = 1
 
 test_patterns = [
-  "*/tests/**"
+  "tests/**"
 ]
 
 exclude_patterns = [
-  "*/tests/**",
-  "*/bin/**",
-  "*/docs/**"
+  "tests/**",
+  "bin/**",
+  "docs/**"
 ]
 
 [[analyzers]]

@@ -3,7 +3,8 @@ baseplate.py
 
 |Build Status| 
 
-[![DeepSource](https://static.deepsource.io/deepsource-badge-dark.svg)](https://deepsource.io/gh/sp3nx0r/baseplate.py/?ref=repository-badge)
+.. image:: https://static.deepsource.io/deepsource-badge-dark.svg
+    :target: https://deepsource.io/gh/sp3nx0r/baseplate.py/?ref=repository-badge
 
 It's much easier to manage a bunch of services when they all have the same
 shape: the way they're developed, the way they interact with the infrastructure
